@@ -21,9 +21,9 @@ You will need to have Python installed on your machine. You can download it from
 
 To encode a message, run the following command on windows:
 
-    python Coding-Decoding-Python.py
+    python Coding_Decoding.py
     
 For Linux:
 
-    python3 Coding-Decoding-Python.py
+    python3 Coding_Decoding.py
    
